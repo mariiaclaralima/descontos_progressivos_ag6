@@ -8,5 +8,5 @@ Na primeira parte do código, é coletado o valor inicial da compra. Após a col
 ## Linguagem utilizada
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="80" width="80"
-  src="https://tse3.mm.bing.net/th/id/OIP.NcoWxTfDKNryzaO2QiYrOQHaHa?r=0&pid=Api&P=0&h=180">
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 </div>
